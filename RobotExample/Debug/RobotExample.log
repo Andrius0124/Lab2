@@ -1,0 +1,10 @@
+﻿  winmain.cpp
+c:\users\promas\desktop\mock  phace test\robotexample\winmain.cpp(124): warning C4065: switch statement contains 'default' but no 'case' labels
+  CGfxOpenGL.cpp
+c:\users\promas\desktop\mock  phace test\robotexample\cgfxopengl.cpp(88): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\promas\desktop\mock  phace test\robotexample\cgfxopengl.cpp(89): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\promas\desktop\mock  phace test\robotexample\cgfxopengl.cpp(94): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\promas\desktop\mock  phace test\robotexample\cgfxopengl.cpp(95): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  RobotExample.vcxproj -> C:\Users\Promas\Desktop\Mock  phace test\RobotExample\Debug\RobotExample.exe
+  RobotExample.vcxproj -> Debug\RobotExample.pdb (Full PDB)
